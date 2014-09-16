@@ -1,4 +1,6 @@
 The-first-
 ==========
 
-Trying something new 
+Trying something new.
+
+ I love cheese :coffee:, and rugby :heart:.
